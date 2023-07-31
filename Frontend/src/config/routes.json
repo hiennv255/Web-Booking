@@ -1,0 +1,26 @@
+
+[
+  {
+    "path": "/home",
+    "component": "Home",
+    "routes": [
+      {
+         "path": "/home/menu1",
+          "component": "Menu1"
+      },
+         {
+         "path": "/home/menu2",
+        "component": "Menu2"
+      }
+
+    ]
+  },
+  {
+    "path": "/login",
+    "component": "Login"
+  },
+  {
+    "path": "/register",
+    "component": "Register"
+  }
+]
